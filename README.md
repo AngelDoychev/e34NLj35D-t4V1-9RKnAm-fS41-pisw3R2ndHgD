@@ -6,7 +6,7 @@ I filter only the gas stations which are open and map them using the MODELMAPPER
 
 You can search by name using the get request:
 </br>
-<img src="https://i.postimg.cc/Qt7fTQnf/search-Img.png"> alt="searchImg"
+<img src="https://i.postimg.cc/Qt7fTQnf/search-Img.png" alt="searchImg">
 http://localhost:8080/gas-station/search/demo
 
 You can also get the median, minimum and maximum stats of these three fuel types: diesel, e5, e10. using there get requests:
