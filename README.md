@@ -5,6 +5,7 @@ by reading the URL with an inputstreamreader and saving the Json in a dto array 
 I filter only the gas stations which are open and map them using the MODELMAPPER library.
 
 You can search by name using the get request:
+</br>
 <img src="https://i.postimg.cc/Qt7fTQnf/search-Img.png"> alt="searchImg"
 http://localhost:8080/gas-station/search/demo
 
